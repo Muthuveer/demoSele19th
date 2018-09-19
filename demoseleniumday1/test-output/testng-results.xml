@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13201" started-at="2018-09-19T04:58:06Z" finished-at="2018-09-19T04:58:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13201" started-at="2018-09-19T04:58:06Z" finished-at="2018-09-19T04:58:19Z">
+      <class name="drivercalling.Ffileupload">
+        <test-method status="PASS" signature="callb()[pri:0, instance:drivercalling.Ffileupload@224edc67]" name="callb" is-config="true" duration-ms="10046" started-at="2018-09-19T04:58:06Z" finished-at="2018-09-19T04:58:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callb -->
+        <test-method status="PASS" signature="Filuplod()[pri:0, instance:drivercalling.Ffileupload@224edc67]" name="Filuplod" duration-ms="2301" started-at="2018-09-19T04:58:16Z" finished-at="2018-09-19T04:58:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filuplod -->
+        <test-method status="PASS" signature="close()[pri:0, instance:drivercalling.Ffileupload@224edc67]" name="close" is-config="true" duration-ms="828" started-at="2018-09-19T04:58:18Z" finished-at="2018-09-19T04:58:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- drivercalling.Ffileupload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
