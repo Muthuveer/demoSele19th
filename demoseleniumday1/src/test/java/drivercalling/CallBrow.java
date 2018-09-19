@@ -19,6 +19,7 @@ public class CallBrow extends Storeobjects {
 	WebDriver driver;
 	String brow="chrome";
 	WebElement E2;
+	WebElement E2334;
 	
 
 	/*
